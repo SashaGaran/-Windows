@@ -32,7 +32,6 @@
 - Резервное копирование
     - [AOMEI Backupper](https://repack.me/software/repacks/data/218-aomei-backupper.html)
 - Ултилиты
-    - [Caesium](https://saerasoft.com/caesium/)
     - [CompactGUI](https://github.com/ImminentFate/CompactGUI)
     - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
     - [Everything](https://www.voidtools.com/ru-ru/)
@@ -45,5 +44,5 @@
     - [Shadow Defender](http://www.shadowdefender.com/)
     - [Snappy Driver Installer](https://sdi-tool.org/)
     - [Total Uninstall](https://www.martau.com/)
-    - [Win 10 Tweaker](https://win10tweaker.pro/)
+    - [**Win 10 Tweaker**](https://win10tweaker.pro/)
     - [WizTree](https://wiztreefree.com/)
