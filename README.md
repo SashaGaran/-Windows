@@ -44,5 +44,5 @@
     - [Shadow Defender](http://www.shadowdefender.com/)
     - [Snappy Driver Installer](https://sdi-tool.org/)
     - [Total Uninstall](https://www.martau.com/)
-    - [**Win 10 Tweaker**](https://win10tweaker.pro/)
+    - [**Win 10 Tweaker** :fire:](https://win10tweaker.pro/)
     - [WizTree](https://wiztreefree.com/)
