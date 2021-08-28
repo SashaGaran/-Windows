@@ -32,7 +32,6 @@
 - Резервное копирование
     - [AOMEI Backupper](https://repack.me/software/repacks/data/218-aomei-backupper.html)
 - Ултилиты
-    - [CompactGUI](https://github.com/ImminentFate/CompactGUI)
     - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
     - [Everything](https://www.voidtools.com/ru-ru/)
     - [KeePass](https://keepass.info/)
