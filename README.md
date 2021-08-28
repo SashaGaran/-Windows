@@ -14,9 +14,8 @@
     - [MagicaVoxel](https://ephtracy.github.io/)
 - Блокното-заменители
     - [Notepad++](https://notepad-plus-plus.org/)
-    - [Sublime Text](https://www.sublimetext.com/)
 - Браузер
-    - [Cent Browser](https://www.centbrowser.com/)
+    - [**Cent Browser** :fire:](https://www.centbrowser.com/)
 - Виртуальные машины
     - [VirtualBox 5.2.42](https://download.virtualbox.org/virtualbox/5.2.42/VirtualBox-5.2.42-137960-Win.exe) [+ Extension Pack 5.2.42](https://download.virtualbox.org/virtualbox/5.2.42/Oracle_VM_VirtualBox_Extension_Pack-5.2.42.vbox-extpack)
 - Загрузочная флешка
