@@ -23,7 +23,7 @@
     - [Rufus](https://rufus.ie/)
     - [Ventoy](https://github.com/ventoy/Ventoy)
 - Программирование для начинающих
-    - [C# Уроки](https://youtube.com/playlist?list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb)
+    - [**C# Уроки** :fire:](https://youtube.com/playlist?list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb)
     - [PICO-8](https://www.lexaloffle.com/pico-8.php)
 - Проигрыватели и «Просмотряторы»
     - [AIMP](https://www.aimp.ru/)
@@ -33,14 +33,14 @@
     - [AOMEI Backupper](https://repack.me/software/repacks/data/218-aomei-backupper.html)
 - Ултилиты
     - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
-    - [Everything](https://www.voidtools.com/ru-ru/)
+    - [**Everything** :fire:](https://www.voidtools.com/ru-ru/)
     - [KeePass](https://keepass.info/)
     - [NetLimiter](https://www.netlimiter.com/)
     - [Process Hacker 2](https://processhacker.sourceforge.io/)
     - [Punto Switcher](https://www.punto.yandex.ru/)
     - [Resource Hacker](http://www.angusj.com/resourcehacker/)
     - [Sandboxie](https://github.com/sandboxie/sandboxie)
-    - [Shadow Defender](http://www.shadowdefender.com/)
+    - [**Shadow Defender** :fire:](http://www.shadowdefender.com/)
     - [Snappy Driver Installer](https://sdi-tool.org/)
     - [Total Uninstall](https://www.martau.com/)
     - [**Win 10 Tweaker** :fire:](https://win10tweaker.pro/)
