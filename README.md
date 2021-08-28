@@ -23,7 +23,7 @@
     - [Ventoy](https://github.com/ventoy/Ventoy)
 - Программирование для начинающих
     - [**C# Уроки** :fire:](https://youtube.com/playlist?list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb)
-    - [PICO-8](https://www.lexaloffle.com/pico-8.php)
+    - [PICO-8](https://www.lexaloffle.com/pico-8.php) [Download (ORIGINAL 3 700 000%)](https://github.com/SashaGaran/Optimization_Windows/tree/main/Pay%20Programs/PICO-8)
 - Проигрыватели и «Просмотряторы»
     - [AIMP](https://www.aimp.ru/)
     - [IrfanView](https://www.irfanview.com/)
